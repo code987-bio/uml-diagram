@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-03T23:52:36.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="p8b4HZGnwzSbxL1k2pPX" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-04T00:34:24.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="F1Fd_aGy6eXi-qqWshyV" version="13.5.9" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="868" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -36,6 +36,73 @@
             <mxPoint x="580" y="80" as="sourcePoint" />
             <mxPoint x="580" y="90" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tegLDQ7x4PN-cwUTBF5U-54" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tegLDQ7x4PN-cwUTBF5U-42" target="tegLDQ7x4PN-cwUTBF5U-55">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="250" y="270" as="sourcePoint" />
+            <mxPoint x="300" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="260" />
+              <mxPoint x="300" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tegLDQ7x4PN-cwUTBF5U-55" value="Database" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="300" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tegLDQ7x4PN-cwUTBF5U-56" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tegLDQ7x4PN-cwUTBF5U-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="190" as="sourcePoint" />
+            <mxPoint x="370" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tegLDQ7x4PN-cwUTBF5U-57" value="Requestor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="170" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tegLDQ7x4PN-cwUTBF5U-58" value="Payroll System" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="140" y="370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tegLDQ7x4PN-cwUTBF5U-59" value="Pay Period&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Payroll%20System%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dcenter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22140%22%20y%3D%22370%22%20width%3D%2290%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Payroll%20System%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dcenter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22140%22%20y%3D%22370%22%20width%3D%2290%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="250" y="370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tegLDQ7x4PN-cwUTBF5U-60" value="Time Keeping Log" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="370" y="370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tegLDQ7x4PN-cwUTBF5U-61" value="Time Keeping Report" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="370" y="413" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tegLDQ7x4PN-cwUTBF5U-62" value="Creator" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="190" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tegLDQ7x4PN-cwUTBF5U-63" value="Employee" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="500" y="240" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tegLDQ7x4PN-cwUTBF5U-64" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tegLDQ7x4PN-cwUTBF5U-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="370" as="sourcePoint" />
+            <mxPoint x="520" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="320" />
+              <mxPoint x="490" y="320" />
+              <mxPoint x="490" y="265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tegLDQ7x4PN-cwUTBF5U-65" value="Supervisor" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="470" y="370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tegLDQ7x4PN-cwUTBF5U-66" value="" style="endArrow=classic;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tegLDQ7x4PN-cwUTBF5U-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="370" as="sourcePoint" />
+            <mxPoint x="640" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="598" y="310" />
+              <mxPoint x="640" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tegLDQ7x4PN-cwUTBF5U-67" value="TimeKeeper" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="600" y="370" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
